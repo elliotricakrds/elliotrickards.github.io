@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> welcome to elliot rickards website </title>
+# welcome to elliots webpage
 </head>
 <body>
 
