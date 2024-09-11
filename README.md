@@ -1,9 +1,6 @@
-<html>
-<head>
-# welcome to elliots webpage
-</head>
-<body>
-
-</body>
-
-</html>
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
